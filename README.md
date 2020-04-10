@@ -2,6 +2,28 @@
 
 [CS 885](https://cs.uwaterloo.ca/~ppoupart/teaching/cs885-spring18/) Spring 2018 at University of Waterloo - Reinforcement Learning
 
+### Description
+The course introduces students to the design of algorithms that enable machines to learn based on reinforcements. In contrast to supervised learning where machines learn from examples that include the correct decision and unsupervised learning where machines discover patterns in the data, reinforcement learning allows machines to learn from partial, implicit and delayed feedback. This is particularly useful in sequential decision making tasks where a machine repeatedly interacts with the environment or users. Applications of reinforcement learning include robotic control, autonomous vehicles, game playing, conversational agents, assistive technologies, computational finance, operations research, etc.
+
+### Topics
+- Markov decision processes
+- Bandits
+- Model free reinforcement learning
+- Model based reinforcement learning
+- Partially observable reinforcement learning
+- Deep reinforcement learning
+- Hierarchical reinforcement learning
+
+### Potential applications
+- Robotic control
+- Game playing
+- Conversational agents
+- Operations research
+- Assistive technologies
+- Intelligent tutoring systems
+- Computational finance
+- Autonomous vehicles
+
 ## Lectures
 
 1. [ ] Course introduction (slides) (video)
