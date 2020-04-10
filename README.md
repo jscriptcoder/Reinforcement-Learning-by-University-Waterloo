@@ -1,6 +1,6 @@
 # Reinforcement Learning by University of Waterloo
 
-CS 885 Spring 2018 at University of Waterloo - Reinforcement Learning
+[CS 885](https://cs.uwaterloo.ca/~ppoupart/teaching/cs885-spring18/) Spring 2018 at University of Waterloo - Reinforcement Learning
 
 ## Lectures
 
